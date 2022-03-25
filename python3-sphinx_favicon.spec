@@ -2,7 +2,7 @@ Summary:	Sphinx Extension adding support for custom favicons
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa dodające obsługę własnych favikonek
 Name:		python3-sphinx_favicon
 Version:	0.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-favicon/
